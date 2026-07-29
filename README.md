@@ -45,6 +45,7 @@ You can see some `Matomo` ([Upstream](https://github.com/matomo-org/matomo)) for
 - [ps-plot](https://github.com/ulcuber/ps-plot) Processes and libs pie chart for Linux on psutil and matplotlib with groupping
 - [Video to Brigtness](https://github.com/ulcuber/video-to-brightness) Switches between dark and light modes based on webcam brightness using `xsettingsd`
 - Input Scope [Upstream](https://github.com/suurjaak/InputScope) Mouse and keyboard input heatmap visualizer, with statistics that I like and contributed to
+- [png-face](https://github.com/ulcuber/png-face) OpenSeeFace replacement for PNGTuber with multi PC setup on PyQt6 and UDP
 
 # Bash
 
